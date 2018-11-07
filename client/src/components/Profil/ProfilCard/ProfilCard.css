@@ -1,0 +1,42 @@
+.ContentProfil {
+    display: flex;
+    justify-content: center;
+}
+
+.ProfilCard {
+    width: 335px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    font-weight: 400;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    margin-top: 20px;
+    text-align: center; 
+    border-radius: 5px
+}
+
+.imgProfil {
+    padding-top: 10px; 
+    border-radius: 35px;
+    width: 200px;
+    height: 200px;
+}
+
+.imgGender {
+    width: 35px;
+}
+
+.flex-center {
+    display: flex;
+    margin: 10px;
+}
+
+.ProfilSexual {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    border: none;
+}

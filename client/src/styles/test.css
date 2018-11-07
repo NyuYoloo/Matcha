@@ -1,0 +1,36 @@
+/* .test {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.test2 {
+    margin-top: 20px;
+    width: 300px;
+    background-color: #e6f2ff
+}
+
+.card-img img {
+    padding-top: 10px; 
+    border-radius: 35px; 
+}
+.card-title {
+    color: blue;
+    text-align: center;
+}
+
+.card-vote {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.card-vote div img {
+    width: 35px;
+}
+
+.text-center {
+    text-align: center;
+} */

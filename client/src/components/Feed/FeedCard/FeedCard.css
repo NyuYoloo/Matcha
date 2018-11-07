@@ -1,0 +1,9 @@
+.Card-vote img {
+    border-radius: 0px !important;
+    margin: 10px;  
+}
+
+.Display {
+    display: flex;
+    flex-wrap: wrap;
+}

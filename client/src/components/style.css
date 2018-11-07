@@ -1,0 +1,57 @@
+body, #root {
+    width: 100%;
+    height: 100%;
+    background-color: #283242;
+}
+
+a {
+    text-decoration: none;
+    color: #ba3535;
+}
+
+a:link {
+    color: #ba3535;
+    text-decoration: none;
+    }
+a:visited {
+    color: #ba3535;
+    text-decoration: none;
+}
+a:active {
+    color: #ba3535;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.select-custom{
+    border: 1px solid #ccc;
+    width: 170px;
+    border-radius: 3px;
+    overflow: hidden;
+    background: #fafafa;
+}
+
+.select-custom select {
+    padding: 5px 8px;
+    width: 130%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.select-custom select:focus {
+    outline: none;
+}
+
+input {
+    text-decoration: none;
+}
+
+main {
+    background-color: #283242;
+}

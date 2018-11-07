@@ -1,0 +1,37 @@
+.form {
+  margin: 0 auto;
+  padding: 30px 30px 0; 
+  @media (min-width: 800px) {
+    max-width: 60%;
+  }
+}
+  
+.input-range {
+  margin-bottom: 50px;
+}
+
+.ParametersContent {
+  margin-top: 20px; 
+  justify-content: center;
+  background-color: white;
+  width: 350px;
+  padding: 25px;
+  border: 15px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+}
+
+.SearchContent {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* background-color: #283242; */
+  /* height: 100%; */
+}
+
+.ResultSearch {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

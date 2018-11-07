@@ -1,0 +1,24 @@
+.Toolbar {
+    width: 100%;
+    background-color: #182130;
+    color: white;
+    height: 80px;
+    line-height: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.Toolbar-logo {
+    animation: App-logo-spin infinite 3s linear;
+    height: 70px;
+}
+
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.Toolbar-items {
+    height: 30px;
+    margin: 20px;
+}

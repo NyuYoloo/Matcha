@@ -1,0 +1,21 @@
+.Feed {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.text-error {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+@media (max-width: 550px) {
+    .text-error{
+        font-size: 25px;
+    }
+    .sadness {
+        width: 150px;
+    }
+  }

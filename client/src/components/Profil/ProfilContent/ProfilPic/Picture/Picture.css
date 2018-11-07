@@ -1,0 +1,15 @@
+.Picture {
+    display: flex;
+    flex-direction: column;
+}
+
+.Picture button {
+    border: none
+}
+
+.Pic {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
